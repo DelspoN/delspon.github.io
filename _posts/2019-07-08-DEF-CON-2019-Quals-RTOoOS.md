@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "DEF CON 2019 Quals / RTOoOS"
 date: 2019-07-08 21:55:00 +0000
 categories: CTF
