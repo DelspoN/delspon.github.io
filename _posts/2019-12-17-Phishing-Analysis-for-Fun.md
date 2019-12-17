@@ -29,7 +29,7 @@ categories: Fun
 
 
 
-![img](assets/img-20191217/45FECFDD-7028-4F6F-B366-6B560932E184.png)
+![img](/assets/img-20191217/45FECFDD-7028-4F6F-B366-6B560932E184.png)
 
 
 
@@ -41,7 +41,7 @@ categories: Fun
 
 
 
-![img](assets/img-20191217/49108EC0-337E-4492-8E91-61D6BA8B053A.png)
+![img](/assets/img-20191217/49108EC0-337E-4492-8E91-61D6BA8B053A.png)
 
 
 
@@ -51,7 +51,7 @@ categories: Fun
 
 
 
-![img](assets/img-20191217/8DA6683B-8A5F-4DAD-95AF-1D9DFA0B76C7.png)
+![img](/assets/img-20191217/8DA6683B-8A5F-4DAD-95AF-1D9DFA0B76C7.png)
 
 
 
@@ -59,7 +59,7 @@ categories: Fun
 
 
 
-![img](assets/img-20191217/5C33657E-AE5D-46BD-AA59-97AAA7B0EB36.png)
+![img](/assets/img-20191217/5C33657E-AE5D-46BD-AA59-97AAA7B0EB36.png)
 
 
 
@@ -67,13 +67,13 @@ categories: Fun
 
 네이버 로그인을 유도한다. 여기서 자신의 진짜 네이버 계정을 입력하면 계정 정보가 해커의 데이터베이스에 고스란히 저장된다. 그리고 그 계정은 또 다른 피싱에 이용되거나 개인정보 판매에 이용된다. 나쁜말을 적어줄까 잠시 고민했지만 후환이 두려워서 일단 의미 없는 문자열을 입력했다.
 
-![img](assets/img-20191217/4C8D3928-178C-4725-AE64-B11273BB66B7.jpeg)
+![img](/assets/img-20191217/4C8D3928-178C-4725-AE64-B11273BB66B7.jpeg)
 
 (그리고 분석하다가 우연히 발견한건데 정의의 사도 한분께서 이미 욕을 적어주셨다.)
 
 
 
-![img](assets/img-20191217/F81FEC00-E4F0-482C-AB86-8BCD9AE36BEA.png)
+![img](/assets/img-20191217/F81FEC00-E4F0-482C-AB86-8BCD9AE36BEA.png)
 
 
 
@@ -87,7 +87,7 @@ categories: Fun
 
 
 
-![img](assets/img-20191217/28F81F13-2D17-4BD9-BB90-1C90908FB647.png)
+![img](/assets/img-20191217/28F81F13-2D17-4BD9-BB90-1C90908FB647.png)
 
 
 
@@ -99,7 +99,7 @@ categories: Fun
 
 이 쯤 되면 궁금증이 생긴다. "피싱을 하는 나쁜 아이들은 과연 자신의 사이트를 안전하게 만들었을까?" 
 
-![img](assets/img-20191217/BFD36D0D-653C-410E-B5EF-59C658040D88.png)
+![img](/assets/img-20191217/BFD36D0D-653C-410E-B5EF-59C658040D88.png)
 
 아니나 다를까 역시 사기꾼들은 자신들이 피싱을 해서 힘들게 모은 자산(?)을 보호할 줄 모르고 있었다.
 
@@ -111,7 +111,7 @@ categories: Fun
 
 내부에서 사용하는 데이터는 중국어가 많이 쓰여서 무슨 의미인지는 파악을 못했다. 대충 훑어보던 중 DB에 피싱을 위한 도메인 정보가 저장되어 있는 것을 확인했다.
 
-![img](assets/img-20191217/5178C7CD-7387-4EB0-B625-21287C67A18B.png)
+![img](/assets/img-20191217/5178C7CD-7387-4EB0-B625-21287C67A18B.png)
 
 
 
